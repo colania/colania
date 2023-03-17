@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img src=https://bard-note.oss-cn-hangzhou.aliyuncs.com/img/202303172109167.png#pic_left width=50% />
-<img src=https://bard-note.oss-cn-hangzhou.aliyuncs.com/img/202303172110915.png#pic_right width= 50% />
 * 🤓 JAVA/Golang/a little Python
 * 👾 Like playing e-games ，Genshin、LoL、Teamfight Tactics
 * 🍱 Like cooking and Chinese food
