@@ -4,8 +4,7 @@
 * 🍱 Like cooking and Chinese food
 * 🧐 I am planning to write some blog posts currently, about coding、 life insight、travelling、tech and so on.
 * 👀 blog : building....
-
-<img src="https://github-readme-stats.vercel.app/api?username=colania&show_icons=true">
+![Colania's GitHub stats](https://github-readme-stats.vercel.app/api?username=colania&show_icons=true&theme=radical)
 
 <!--
 **colania/colania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
