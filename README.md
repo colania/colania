@@ -1,4 +1,10 @@
 ### Hi there 👋
+* 🤓 JAVA/Golang/a little Python
+* 👾 Like playing e-games ，Genshin、LoL、Teamfight Tactics
+* 🍱 Like cooking and Chinese food
+* 🧐 I am planning to write some blog posts currently, about coding、life insight、travelling、tech and so on.
+* 👀 blog : building....
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=colania&show_icons=true">
 
 <!--
